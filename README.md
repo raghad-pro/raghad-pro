@@ -60,22 +60,14 @@ I am a passionate **Frontend Developer** and **Software Engineering student**[ci
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 📈 GitHub Stats
 
-<!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raghad-pro&theme=tokyonight&no-frame=true&margin-w=10" alt="Raghad's GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raghad-pro&show_icons=true&theme=tokyonight&hide_border=true" alt="Raghad's GitHub Stats" />
 </p>
 
-<!-- Stats and Top Languages Side by Side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghad-pro&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Raghad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghad-pro&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Raghad's Top Languages" />
-</p>
-
-<!-- Contribution Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghad-pro&theme=tokyo-night&hide_border=true" width="100%" alt="Raghad's Contribution Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=raghad-pro&theme=tokyonight&hide_border=true" alt="Raghad's GitHub Streak" />
 </p>
 
 ---
